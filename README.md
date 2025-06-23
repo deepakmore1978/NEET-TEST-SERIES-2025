@@ -23,8 +23,8 @@ NEET TEST SERIES 2025
         </header>
         <section id="chapter1" class="note-section">
             <h2>Chapter 1: Electric Charges</h2>
-            <p>Electric charge is a fundamental property of matter...</p>
-            <a href="https://www.selfstudys.com/books/ncert-notes/english/class-12th/physics/chapter-1-electric-charges-and-fields/981755" class="download-btn" target="_blank">Download PDF</a>
+            <p>NEET TEST 8.6.25</p>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSf9CZhoWIBzgo6aJptAsvU6He7HStPt42YHoWS_7j4zincDUQ/viewform?usp=sharing&ouid=112114855910623175157" >TEST 01</a>
         </section>
         <section id="chapter2" class="note-section">
             <h2>Chapter 2: Electrostatic Potential</h2>
