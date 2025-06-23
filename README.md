@@ -22,7 +22,7 @@ NEET TEST SERIES 2025
             <h1>Physics Notes</h1>
         </header>
         <section id="chapter1" class="note-section">
-            <h2>Chapter 1: Electric Charges</h2>
+            <h2>NEET TEST 8.6.25</h2>
             <p>NEET TEST 8.6.25</p>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSf9CZhoWIBzgo6aJptAsvU6He7HStPt42YHoWS_7j4zincDUQ/viewform?usp=sharing&ouid=112114855910623175157" >PHYSICS TEST 01</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLScCDu1gnzORHiuPzC_mf8Nwt4j9XqN_pfwmZgVPZIWmJC-8Zg/viewform?usp=sharing&ouid=112114855910623175157" >CHEMISTRY TEST 01</a>
