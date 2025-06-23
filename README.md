@@ -24,7 +24,7 @@ NEET TEST SERIES 2025
         <section id="chapter1" class="note-section">
             <h2>Chapter 1: Electric Charges</h2>
             <p>NEET TEST 8.6.25</p>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSf9CZhoWIBzgo6aJptAsvU6He7HStPt42YHoWS_7j4zincDUQ/viewform?usp=sharing&ouid=112114855910623175157" >TEST 01</a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSf9CZhoWIBzgo6aJptAsvU6He7HStPt42YHoWS_7j4zincDUQ/viewform?usp=sharing&ouid=112114855910623175157" >PHYSICS TEST 01</a>
         </section>
         <section id="chapter2" class="note-section">
             <h2>Chapter 2: Electrostatic Potential</h2>
