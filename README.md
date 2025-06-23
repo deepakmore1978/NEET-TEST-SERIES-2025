@@ -12,7 +12,7 @@ NEET TEST SERIES 2025
     <aside class="sidebar">
         <h2>Class 12 Physics</h2>
         <ul id="notes-menu">
-            <li><a href="#chapter1">Chapter 1: Electric Charges</a></li>
+            <li><a href="#chapter1">Chapter 1: NEET TEST 8.6.25</a></li>
             <li><a href="#chapter2">Chapter 2: Electrostatic Potential</a></li>
             <li><a href="#chapter3">Chapter 3: Current Electricity</a></li>
         </ul>
