@@ -1,4 +1,4 @@
-NEET TEST SERIES 2025
+NEET TEST SERIES
 <!DOCTYPE html>
 <html lang="en">
 <head>
